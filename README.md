@@ -1,4 +1,4 @@
-📨 Ottomatic Reply — E-Mail Concierge
+# 📨 Ottomatic Reply — E-Mail Concierge
 
 A small hackathon project developed during the “Hackathon – Creating an E-Mail Concierge”,
 organized by the Center for Open Digital Innovation and Participation (CODIP) at TU Dresden
